@@ -2,6 +2,4 @@
 <h2>  DevOps interns 2021-2</h2>
 <h2> Glad to see you here </h2>
 <h3> Victoria Perez </h3>
-<h4> Cambio #/ </h4>
 <p> Nuevo cambio para ver si se actualiza </p>
-<p> Nuevo cambio </p>
