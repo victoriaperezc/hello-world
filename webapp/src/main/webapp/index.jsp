@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="style.css" />
-<title>Multi-Blue by Bryant Smith</title>
+<title>Simple project devops</title>
 </head>
 
 <body>
@@ -26,7 +26,7 @@
 <div id="main">
 	<div class="content">
         	<div class="main_top">
-            	<h1>Page Title</h1>
+            	<h1>DevOps interns 2021-2</h1>
             </div>
             
            	<div class="main_body">
