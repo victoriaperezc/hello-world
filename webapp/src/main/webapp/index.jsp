@@ -27,15 +27,6 @@
             </div>
             
 			</div>
-            <div class="clear">&nbsp;</div>
-        </div>
-<div id="footer">
-        <p>
-        <a href="http://www.bryantsmith.com/template">xhtml template</a> by <a href="http://www.bryantsmith.com">web page designer</a></p>
-        </div>        
-        
-        
-        
-        </div>
+    <h2> One last deployment on Kubernetes <h2>
 </body>
 </html>
